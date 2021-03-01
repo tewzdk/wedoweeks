@@ -2,7 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import {} from 'react-native';
 import reportWebVitals from './reportWebVitals';
+import 'react-native-gesture-handler';
+
 
 ReactDOM.render(
   <React.StrictMode>
